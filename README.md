@@ -62,7 +62,13 @@ sales-dashboard-project/
 
 ## Dashboard
 
-*(Power BI dashboard screenshot and link coming soon)*
+## Dashboard
+
+![Sales Dashboard](outputs/dashboard_screenshot.png)
+
+The dashboard includes 4 KPI cards, category/regional/monthly sales breakdowns, a
+profit-by-sub-category view with conditional color formatting, and interactive
+slicers for Region, Category, Segment, and date range.*(Power BI dashboard screenshot and link coming soon)*
 
 ## Author
 
