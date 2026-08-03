@@ -33,14 +33,16 @@ workflow: from raw, messy data to a polished business-facing dashboard.
 
 ## Key Findings
 
-- **Technology** leads in total revenue (~$836K), but the **West region** generates the
-  highest profit overall — showing revenue and profitability don't always align.
-- **November** is the strongest sales month by a wide margin, pointing to a clear
-  holiday seasonality pattern worth planning inventory around.
-- **Tables, Bookcases, and Supplies are all net-unprofitable**, despite solid sales volume —
-  a high-value insight for pricing or discount strategy.
-- The **Consumer segment** drives the most total profit, while **Corporate** customers
-  have a slightly higher profit margin (13.0% vs. 11.6%).
+- **Technology** leads in total revenue (~$836K), but the **West region**
+  generates the highest profit overall. This shows that revenue and
+  profitability do not always align.
+- **November** is the strongest sales month by a wide margin, pointing to a
+  clear holiday seasonality pattern worth planning inventory around.
+- **Tables, Bookcases, and Supplies are all net-unprofitable**, despite solid
+  sales volume, making them a high-value target for pricing or discount
+  strategy review.
+- The **Consumer segment** drives the most total profit, while **Corporate**
+  customers have a slightly higher profit margin (13.0% vs. 11.6%).
 
 ## Repository Structure
 
@@ -62,8 +64,6 @@ sales-dashboard-project/
 
 ## Dashboard
 
-## Dashboard
-
 ![Sales Dashboard](outputs/dashboard_screenshot.png)
 
 The dashboard includes 4 KPI cards, category/regional/monthly sales breakdowns, a
@@ -72,5 +72,5 @@ slicers for Region, Category, Segment, and date range.*(Power BI dashboard scree
 
 ## Author
 
-**[Marc LEveille]** — Information Systems student
+**[Marc Leveille]** — Information Systems student
 [LinkedIn](https://www.linkedin.com/in/marc-leveille-5400b9380/) | [GitHub](https://github.com/MarchLev)
