@@ -57,7 +57,7 @@ sales-dashboard-project/
 
 ## How to Run This Project
 
-1. Clone the repo: `git clone https://github.com/MarchLev/sales-dashboard-project.git`
+1. Clone the repo: `git clone https://github.com/MarcHLev/sales-dashboard-project.git`
 2. Install dependencies: `pip install pandas matplotlib seaborn`
 3. Run the analysis: `python analysis.py`
 4. Open `outputs/superstore_clean.csv` in Power BI to explore the dashboard
@@ -68,9 +68,9 @@ sales-dashboard-project/
 
 The dashboard includes 4 KPI cards, category/regional/monthly sales breakdowns, a
 profit-by-sub-category view with conditional color formatting, and interactive
-slicers for Region, Category, Segment, and date range.*(Power BI dashboard screenshot and link coming soon)*
+slicers for Region, Category, Segment, and date range.
 
 ## Author
 
 **[Marc Leveille]** — Information Systems student
-[LinkedIn](https://www.linkedin.com/in/marc-leveille-5400b9380/) | [GitHub](https://github.com/MarchLev)
+[LinkedIn](https://www.linkedin.com/in/marc-leveille-5400b9380/) | [GitHub](https://github.com/MarcHLev)
